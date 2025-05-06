@@ -10,6 +10,7 @@ Jakub Jankowski
 Port kontenera: 3000
 
 Dane są logowane zarówno przy uruchamianiu kontenera i w konsoli przeglądarki
+
 3.d) docker image inspect final_build - w linijce "Layers" {...}:
 lub docker history final_build
 
