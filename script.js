@@ -1,4 +1,4 @@
-const KEY = '238435330a34742afe868f5a779865d0'
+const KEY = ''
 document.addEventListener('DOMContentLoaded', () => {
     const now = new Date().toISOString();
     console.log(`Serwer uruchomiono - ${now}`)
